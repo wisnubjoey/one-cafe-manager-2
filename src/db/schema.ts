@@ -8,3 +8,4 @@ export const users = pgTable("users", {
 });
 
 export * from "./schema/catalogue";
+export * from "./schema/purchase-invoice";
